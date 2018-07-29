@@ -6,7 +6,7 @@
   "repository": "akameco/natori.proxy",
   "author": "akameco <akameco.t@gmail.com> (akameco.github.io)",
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "scripts": {
     "add-contributor": "all-contributors add",
