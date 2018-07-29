@@ -12,7 +12,7 @@
     "add-contributor": "all-contributors add",
     "precommit": "lint-staged",
     "fmt": "prettier --write '**/*.{js,json,md}'",
-    "lint": "eslint .",
+    "lint": "eslint index.js",
     "test:ci": "yarn lint"
   },
   "lint-staged": {
